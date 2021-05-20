@@ -1,0 +1,16 @@
+.table td,
+.table th,
+.table thead th {
+  border: 0;
+}
+.form-select {
+  width: 40%;
+}
+.btn {
+  border: 0;
+}
+
+.btn:focus {
+  outline: none;
+  box-shadow: none;
+}
